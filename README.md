@@ -1,4 +1,4 @@
-# DALL-E-3-Image-Generator-Using-Streamlit-in-Python
+# DALL-E-3 Image Generator using Streamlit in Python
 
 
 NOTE: In the apikey.py file add your own API Key from your openai account
